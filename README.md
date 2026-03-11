@@ -75,9 +75,6 @@ pip install tensorflow keras numpy
 ```bash
 # 基础训练
 python train.py
-
-# 特殊训练模式
-python special_train.py
 ```
 
 ### 与AI对弈
@@ -118,15 +115,3 @@ python predict.py
 - 实现一个能够战胜人类的井字棋AI
 - 探索深度强化学习在博弈中的应用
 - 演示策略网络与价值网络的结合效果
-
-## 📝 许可证
-
-这个项目的具体许可证信息请参考项目的许可证文件。
-
-## 🤝 贡献
-
-欢迎提交Issue和Pull Request！
-
----
-
-**最后更新**: 2026年3月
